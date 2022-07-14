@@ -1,0 +1,2 @@
+# shoppino
+prova primo angular
